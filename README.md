@@ -1,6 +1,6 @@
-# cloner
+# Clone with Flutter
 
-A new Flutter project.
+A project to learn layouting using Flutter. Contains code samples of various cool UIs implemented using Flutter.
 
 ## Getting Started
 
